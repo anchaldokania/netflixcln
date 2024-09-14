@@ -1,0 +1,21 @@
+.header-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(29, 26, 26);
+  color: rgb(201, 8, 8);
+  padding: 10px;
+}
+
+.header-right {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  margin: 0 !important;
+}
+.header-right-components {
+  height: 40px;
+  margin-right: 5px;
+}

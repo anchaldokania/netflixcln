@@ -1,0 +1,22 @@
+.current-main {
+  display: flex;
+  flex-direction: column;
+  overflow-x: scroll;
+  gap: 10px;
+  height: 350px;
+  margin: 20px;
+}
+
+.current-heading {
+  margin: 0 !important;
+}
+
+.movie-list {
+  display: flex;
+  height: 270px;
+  align-items: end;
+  margin-right: 10px;
+  width: 150px;
+  color: white;
+  cursor: pointer;
+}
